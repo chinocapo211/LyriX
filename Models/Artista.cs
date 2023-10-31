@@ -8,6 +8,12 @@ class artista{
     string fotoDescripcion{get;set;}
 
     public artista(int idArt, string nom, string ig, string tw, string desc, string ftArt, string ftDesc){
-        
+        IdArtista = idArt;
+        nombre = nom;
+        instagram = ig;
+        twitter = tw;
+        descripcion = desc;
+        fotoArtista = ftArt;
+        fotoDescripcion = ftDesc;
     }
 }
