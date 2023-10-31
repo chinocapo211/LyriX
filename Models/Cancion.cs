@@ -1,12 +1,12 @@
-class cancion{
-    int IdCancion{get;set;}
-    string nombreCancion{get;set;}
-    string audio{get;set;}
-    string fotoCancion{get;set;}
-    int IdArtista{get;set;}
-    int IdAlbum{get;set;}
+public class Cancion{
+    public int IdCancion{get;set;}
+    public string nombreCancion{get;set;}
+    public string audio{get;set;}
+    public string fotoCancion{get;set;}
+    public int IdArtista{get;set;}
+    public int IdAlbum{get;set;}
 
-    public cancion(int idCan, string nom, string aud, string ftCan, int idArt, int idAlb){
+    public Cancion(int idCan, string nom, string aud, string ftCan, int idArt, int idAlb){
         IdCancion = idCan;
         nombreCancion = nom;
         audio = aud;

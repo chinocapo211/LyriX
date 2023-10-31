@@ -1,6 +1,6 @@
-class album{
-    int IdAlbum{get;set;}
-    string nombreAlbum{get;set;}
-    string fotoAlbum{get;set;}
-    int IdArtista{get;set;}
+public class Album{
+    public int IdAlbum{get;set;}
+    public string nombreAlbum{get;set;}
+    public string fotoAlbum{get;set;}
+    public int IdArtista{get;set;}
 }
