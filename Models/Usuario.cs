@@ -8,4 +8,17 @@ public class Usuario{
     public string descripcion{get;set;}
     public string instagramUser{get;set;}
     public string twitterUser{get;set;}
+
+
+    public Usuario(int idUs, string nomUs, string contra, DateTime fn, string mail, string fotoUs, string desc, string igUser, string twUser){
+        IdUsuario = idUs;
+        nombreUser = nomUs;
+        contrasenia = contra;
+        fechaNacimiento = fn;
+        mail = mail;
+        fotoUsuario = fotoUs;
+        descripcion = desc;
+        instagramUser = igUser;
+        twitterUser = twUser;
+    }
 }
