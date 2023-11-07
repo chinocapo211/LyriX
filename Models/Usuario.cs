@@ -10,8 +10,7 @@ public class Usuario{
     public string twitterUser{get;set;}
 
 
-    public Usuario(int idUs, string nomUs, string contra, DateTime fn, string mail, string fotoUs, string desc, string igUser, string twUser){
-        IdUsuario = idUs;
+    public Usuario(string nomUs, string contra, DateTime fn, string mail, string fotoUs, string desc, string igUser, string twUser){
         nombreUser = nomUs;
         contrasenia = contra;
         fechaNacimiento = fn;
