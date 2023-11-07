@@ -9,6 +9,150 @@
       "PackagePath": "staticwebassets\\BD_LyriX.sql"
     },
     {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Big Poppa (2007 Remaster).mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\Big Poppa (2007 Remaster).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\California Love (Original Version).mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\California Love (Original Version).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\DJ Khaled – No Brainer (Lyrics) ft. Justin Bieber Chance the Rapper Quavo.mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\DJ Khaled – No Brainer (Lyrics) ft. Justin Bieber Chance the Rapper Quavo.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Hit 'Em Up.mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\Hit 'Em Up.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\In My Feelings.mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\In My Feelings.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Tyga - Taste (Official Video) ft. Offset.mp3",
+      "PackagePath": "staticwebassets\\audio\\rap\\Tyga - Taste (Official Video) ft. Offset.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\KAROL G - BICHOTA.mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\KAROL G - BICHOTA.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3",
+      "PackagePath": "staticwebassets\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\born-to-run.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\born-to-run.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\good-vibrations.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\good-vibrations.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\hotel-california.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\hotel-california.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\imagine.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\imagine.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\light-my-fire.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\light-my-fire.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\like-a-rolling-stone.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\like-a-rolling-stone.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\respect.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\respect.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\satisfaction.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\satisfaction.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\stairway-to-heaven.mp3",
+      "PackagePath": "staticwebassets\\audio\\rock\\stairway-to-heaven.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\20-min.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\20-min.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\a-por-todo.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\a-por-todo.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\givenchy.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\givenchy.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\harakiri.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\harakiri.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\jimmy-cooks.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\jimmy-cooks.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\la-mirada.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\la-mirada.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\loca.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\loca.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\magnolia.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\magnolia.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\pintao.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\pintao.mp3"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\sicko-mode.mp3",
+      "PackagePath": "staticwebassets\\audio\\trap\\sicko-mode.mp3"
+    },
+    {
       "Id": "Z:\\programacion\\LyriX\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
