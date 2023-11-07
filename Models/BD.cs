@@ -35,4 +35,10 @@ public static class BD{
         }
         return devolver;
     }
+    public static void InsertarUsuario(string nom, string ma , DateTime fn, string con){
+        string sql = "exec sp_CrearUsuario @nom, @ma, @fn, @con";
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            db.Execute(sql, new {@nom = nom, @ma = ma, @fn = fn, @con = con});
+        }
+    }
 }
