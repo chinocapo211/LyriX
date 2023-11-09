@@ -41,4 +41,24 @@ public static class BD{
             db.Execute(sql, new {@nom = nom, @ma = ma, @fn = fn, @con = con});
         }
     }
+    public static void InsertarDescripcion(string desc, int IdUsuario){
+        string sql = "UPDATE Usuario SET Descripcion = @desc WHERE IdUsuario = @pIdUsuario";
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            db.Execute(sql, new {@desc = desc, @pIdUsuario = IdUsuario});
+        }
+    }
+    public static void InsertarInstagram(string insta, int IdUsuario){
+        insta = "instagram.com/" + insta;
+        string sql = "UPDATE Usuario SET Instaram = @insta WHERE IdUsuario = @pIdUsuario";
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            db.Execute(sql, new {@insta = insta, @pIdUsuario = IdUsuario});
+        }
+    }
+    public static void InsertarTwitter(string twit, int IdUsuario){
+        insta = "twitter.com/" + twit;
+        string sql = "UPDATE Usuario SET Twitter = @twit WHERE IdUsuario = @pIdUsuario";
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            db.Execute(sql, new {@twit = twit, @pIdUsuario = IdUsuario});
+        }
+    }
 }
