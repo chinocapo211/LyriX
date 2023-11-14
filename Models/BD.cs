@@ -55,7 +55,7 @@ public static class BD{
         }
     }
     public static void InsertarTwitter(string twit, int IdUsuario){
-        insta = "twitter.com/" + twit;
+        twit = "twitter.com/" + twit;
         string sql = "UPDATE Usuario SET Twitter = @twit WHERE IdUsuario = @pIdUsuario";
         using(SqlConnection db = new SqlConnection(_connectionString)){
             db.Execute(sql, new {@twit = twit, @pIdUsuario = IdUsuario});
