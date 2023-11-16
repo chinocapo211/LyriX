@@ -1,4 +1,4 @@
-public class Usuario{
+public class Usuarios{
     public int IdUsuario{get;set;}
     public string nombreUser{get;set;}
     public string contrasenia{get;set;}
@@ -10,7 +10,7 @@ public class Usuario{
     public string twitterUser{get;set;}
 
 
-    public Usuario(string nomUs, string contra, DateTime fn, string mail, string fotoUs, string desc, string igUser, string twUser){
+    public Usuarios(string nomUs, string contra, DateTime fn, string mail, string fotoUs, string desc, string igUser, string twUser){
         nombreUser = nomUs;
         contrasenia = contra;
         fechaNacimiento = fn;

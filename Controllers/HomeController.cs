@@ -15,6 +15,10 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.listaArtistas = BD.ObtenerArtistas();
+        foreach(Artistas Artis in ViewBag.listaArtistas){
+            ViewBag.listaAlbumes += BD.ObtenerAlbumesPorArtista(Artis.IdArtista);
+        }
         return View("Index");
     }
 
@@ -23,9 +27,39 @@ public class HomeController : Controller
         return View("Login");
     }
 
+    public IActionResult Perfil(int IdUsuario)
+    {
+        ViewBag.User = BD.ObtenerInfoUser(IdUsuario);
+        return View("Perfil");
+    }
+
     public IActionResult Privacy()
     {
         return View();
+    }
+
+    public IActionResult insertarUser(string nom, string ma , DateTime fn, string con)
+    {
+        BD.InsertarUsuario(nom,ma,fn,con);
+        return View("Registro");
+    }
+
+    public IActionResult insertarDesc(string desc, int IdUsuario)
+    {
+        BD.InsertarDescripcion(desc,IdUsuario);
+        return View("Perfil");
+    }
+
+    public IActionResult insertarInsta(string insta, int IdUsuario)
+    {
+        BD.InsertarInstagram(insta,IdUsuario);
+        return View("Perfil");
+    }
+
+    public IActionResult insertarTwit(string twit, int IdUsuario)
+    {
+        BD.InsertarTwitter(twit,IdUsuario);
+        return View("Perfil");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

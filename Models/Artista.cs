@@ -1,5 +1,5 @@
-public class Artista{
-    int IdArtista{get;set;}
+public class Artistas{
+    public int IdArtista{get;set;}
     string nombre {get;set;}
     string instagram{get;set;}
     string twitter{get;set;}
@@ -7,7 +7,7 @@ public class Artista{
     string fotoArtista{get;set;}
     string fotoDescripcion{get;set;}
 
-    public Artista(int idArt, string nom, string ig, string tw, string desc, string ftArt, string ftDesc){
+    public Artistas(int idArt, string nom, string ig, string tw, string desc, string ftArt, string ftDesc){
         IdArtista = idArt;
         nombre = nom;
         instagram = ig;

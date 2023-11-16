@@ -1,4 +1,4 @@
-public class Cancion{
+public class Canciones{
     public int IdCancion{get;set;}
     public string nombreCancion{get;set;}
     public string audio{get;set;}
@@ -6,7 +6,7 @@ public class Cancion{
     public int IdArtista{get;set;}
     public int IdAlbum{get;set;}
 
-    public Cancion(int idCan, string nom, string aud, string ftCan, int idArt, int idAlb){
+    public Canciones(int idCan, string nom, string aud, string ftCan, int idArt, int idAlb){
         IdCancion = idCan;
         nombreCancion = nom;
         audio = aud;

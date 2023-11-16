@@ -3,33 +3,41 @@ using Dapper;
 namespace LyriX.Models;
 public static class BD{
     private static string _connectionString = @"Server=localhost;DataBase=BD_LyriX;Trusted_Connection=True;";
-    public static List<Album> ObtenerAlbumesPorArtista(int IdArtista){
-        string sql = "SELECT * FROM Album WHERE IdArtista = @pIdArtista";
-        List<Album> listaA = new List<Album>{};
+    public static List<Albumes> ObtenerAlbumesPorArtista(int IdArtista){
+        string sql = "SELECT * FROM Albumes WHERE IdArtista = @pIdArtista";
+        List<Albumes> listaA = new List<Albumes>{};
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            listaA = db.Query<Album>(sql, new {pIdArtista = IdArtista}).ToList();
+            listaA = db.Query<Albumes>(sql, new {pIdArtista = IdArtista}).ToList();
         }
         return listaA;
     }
-    public static List<Cancion> ObtenerCancionesPorAlbum(int IdAlbum){
-        string sql = "SELECT * FROM Cancion WHERE IdCancion = @pIdCancion";
-        List<Cancion> listaC = new List<Cancion>{};
+    public static List<Artistas> ObtenerArtistas(){
+        string sql = "SELECT TOP 5 * FROM Artistas ORDER BY NEWID()";
+        List<Artistas> devolver = new List<Artistas>{};
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            listaC = db.Query<Cancion>(sql, new {pIdAlbum = IdAlbum}).ToList();
+            devolver = db.Query<Artistas>(sql).ToList();
+        }
+        return devolver;
+    }
+    public static List<Canciones> ObtenerCancionesPorAlbum(int IdAlbum){
+        string sql = "SELECT * FROM Canciones WHERE IdCancion = @pIdCancion";
+        List<Canciones> listaC = new List<Canciones>{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            listaC = db.Query<Canciones>(sql, new {pIdAlbum = IdAlbum}).ToList();
         }
         return listaC;
     }
-    public static Artista ObtenerInfoArtista(int IdArtista){
-        string sql = "SELECT * FROM Artista WHERE IdArtista = @pIdArtista";
-        Artista devolver;
+    public static Artistas ObtenerInfoArtista(int IdArtista){
+        string sql = "SELECT * FROM Artistas WHERE IdArtista = @pIdArtista";
+        Artistas devolver;
         using(SqlConnection db = new SqlConnection(_connectionString)){
             devolver = db.QueryFirstOrDefault(sql, new {pIdArtista = IdArtista});
         }
         return devolver;
     }
-    public static Usuario ObtenerInfoUser(int IdUsuario){
-        string sql = "SELECT * FROM Usuario WHERE IdUsuario = @pIdUsuario";
-        Usuario devolver;
+    public static Usuarios ObtenerInfoUser(int IdUsuario){
+        string sql = "SELECT * FROM Usuarios WHERE IdUsuario = @pIdUsuario";
+        Usuarios devolver;
         using(SqlConnection db = new SqlConnection(_connectionString)){
             devolver = db.QueryFirstOrDefault(sql, new {pIdUsuario = IdUsuario});
         }
@@ -42,21 +50,21 @@ public static class BD{
         }
     }
     public static void InsertarDescripcion(string desc, int IdUsuario){
-        string sql = "UPDATE Usuario SET Descripcion = @desc WHERE IdUsuario = @pIdUsuario";
+        string sql = "UPDATE Usuarios SET Descripcion = @desc WHERE IdUsuario = @pIdUsuario";
         using(SqlConnection db = new SqlConnection(_connectionString)){
             db.Execute(sql, new {@desc = desc, @pIdUsuario = IdUsuario});
         }
     }
     public static void InsertarInstagram(string insta, int IdUsuario){
         insta = "instagram.com/" + insta;
-        string sql = "UPDATE Usuario SET Instaram = @insta WHERE IdUsuario = @pIdUsuario";
+        string sql = "UPDATE Usuarios SET Instaram = @insta WHERE IdUsuario = @pIdUsuario";
         using(SqlConnection db = new SqlConnection(_connectionString)){
             db.Execute(sql, new {@insta = insta, @pIdUsuario = IdUsuario});
         }
     }
     public static void InsertarTwitter(string twit, int IdUsuario){
         twit = "twitter.com/" + twit;
-        string sql = "UPDATE Usuario SET Twitter = @twit WHERE IdUsuario = @pIdUsuario";
+        string sql = "UPDATE Usuarios SET Twitter = @twit WHERE IdUsuario = @pIdUsuario";
         using(SqlConnection db = new SqlConnection(_connectionString)){
             db.Execute(sql, new {@twit = twit, @pIdUsuario = IdUsuario});
         }
