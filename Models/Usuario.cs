@@ -10,14 +10,18 @@ public class Usuarios{
     public string twitterUser{get;set;}
 
 
-    public Usuarios(string nomUs, string contra, DateTime fn, string mail, string fotoUs, string desc, string igUser, string twUser){
+    public Usuarios(string nomUs, string contra, DateTime fn, string Mail, string fotoUs, string desc, string igUser, string twUser){
         nombreUser = nomUs;
         contrasenia = contra;
         fechaNacimiento = fn;
-        mail = mail;
+        mail = Mail;
         fotoUsuario = fotoUs;
         descripcion = desc;
         instagramUser = igUser;
         twitterUser = twUser;
+    }
+
+    public Usuarios(){
+        
     }
 }

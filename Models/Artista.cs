@@ -16,4 +16,8 @@ public class Artistas{
         fotoArtista = ftArt;
         fotoDescripcion = ftDesc;
     }
+    
+    public Artistas(){
+        
+    }
 }

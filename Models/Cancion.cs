@@ -14,4 +14,8 @@ public class Canciones{
         IdArtista = idArt;
         IdAlbum = idAlb;
     }
+
+    public Canciones(){
+        
+    }
 }

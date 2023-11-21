@@ -10,4 +10,8 @@ public class Albumes{
         fotoAlbum = ftAlb;
         IdArtista = idArt;
     }
+
+    public Albumes(){
+        
+    }
 }
