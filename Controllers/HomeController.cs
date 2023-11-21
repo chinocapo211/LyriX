@@ -32,7 +32,10 @@ public class HomeController : Controller
         ViewBag.User = BD.ObtenerInfoUser(IdUsuario);
         return View("Perfil");
     }
-
+    public IActionResult Registro()
+    {
+        return View("Registro");
+    }
     public IActionResult Privacy()
     {
         return View();
