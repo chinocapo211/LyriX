@@ -505,23 +505,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\47807182\\.nuget\\packages\\": {},
+    "C:\\Users\\47436755\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\LyriX.csproj",
+      "projectUniqueName": "Z:\\programacion\\LyriX\\LyriX.csproj",
       "projectName": "LyriX",
-      "projectPath": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\LyriX.csproj",
-      "packagesPath": "C:\\Users\\47807182\\.nuget\\packages\\",
-      "outputPath": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\",
+      "projectPath": "Z:\\programacion\\LyriX\\LyriX.csproj",
+      "packagesPath": "C:\\Users\\47436755\\.nuget\\packages\\",
+      "outputPath": "Z:\\programacion\\LyriX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\47807182\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\47436755\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -69,4 +69,13 @@ public static class BD{
             db.Execute(sql, new {@twit = twit, @pIdUsuario = IdUsuario});
         }
     }
+     public static Usuarios ObtenerUserNombre(string nombre){
+        string sql = "SELECT * FROM Usuarios WHERE nombre = @pnombre";
+        Usuarios devolver;
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.QueryFirstOrDefault(sql, new {pnombre = nombre});
+        }
+        return devolver;
+    }
+
 }

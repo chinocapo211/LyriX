@@ -26,6 +26,12 @@ public class HomeController : Controller
     {
         return View("Login");
     }
+    public IActionResult ingresoLogin(string nom, string con)
+    {
+        
+        return View("Login");
+    }
+
 
     public IActionResult Perfil(int IdUsuario)
     {
@@ -41,7 +47,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult insertarUser(string nom, string ma , DateTime fn, string con)
+    [HttpPost] public IActionResult insertarUser(string nom, string ma , DateTime fn, string con)
     {
         BD.InsertarUsuario(nom,ma,fn,con);
         return View("Registro");

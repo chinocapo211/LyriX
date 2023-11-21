@@ -17,6 +17,7 @@
         }
 
         #registro-form {
+            text-align: center;
             background-color: #4b4b4b; /* Gris */
             padding: 20px;
             border-radius: 8px;
@@ -25,8 +26,9 @@
         }
 
         h2 {
-            color: #e0549a; /* Rosa */
+            color: #e0549a; 
             text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
         }
 
         label {
@@ -39,13 +41,23 @@
             padding: 8px;
             margin-top: 5px;
             margin-bottom: 10px;
-            box-sizing: border-box;
+            border-radius: 8px;
         }
 
         input[type="submit"] {
             background-color: #ff69b4; /* Rosa */
-            color: #fff;
-            cursor: pointer;
+            color: #fff;  
+        }
+
+        button{
+            background-color: #ff69b4; 
+            border: none;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+            border-radius: 20px;
+            display: inline-block;
+            font-size: 16px;
         }
     </style>
 </head>
@@ -53,7 +65,7 @@
 
     <div id="registro-form">
         <h2>Registro de Usuario</h2>
-        <form action="#" method="post">
+        <form action='@Url.Action("insertarUser")' method="post">
             <label for="nombre">Nombre de Usuario:</label>
             <input type="text" id="nombre" name="nombre" required>
 
