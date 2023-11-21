@@ -1,551 +1,551 @@
 {
   "Files": [
     {
-      "Id": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LyriX.bundle.scp.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LyriX.bundle.scp.css",
       "PackagePath": "staticwebassets\\LyriX.bundle.scp.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\BD_LyriX.sql",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\BD_LyriX.sql",
       "PackagePath": "staticwebassets\\BD_LyriX.sql"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\assets\\google-icon.svg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\google-icon.svg",
       "PackagePath": "staticwebassets\\assets\\google-icon.svg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\assets\\login-icon.svg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\login-icon.svg",
       "PackagePath": "staticwebassets\\assets\\login-icon.svg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\assets\\login-icon1.svg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\login-icon1.svg",
       "PackagePath": "staticwebassets\\assets\\login-icon1.svg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\assets\\logo-vt.svg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\logo-vt.svg",
       "PackagePath": "staticwebassets\\assets\\logo-vt.svg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\assets\\password-icon.svg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\password-icon.svg",
       "PackagePath": "staticwebassets\\assets\\password-icon.svg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\assets\\username-icon.svg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\username-icon.svg",
       "PackagePath": "staticwebassets\\assets\\username-icon.svg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Big Poppa (2007 Remaster).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Big Poppa (2007 Remaster).mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\Big Poppa (2007 Remaster).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\California Love (Original Version).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\California Love (Original Version).mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\California Love (Original Version).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Hit 'Em Up.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Hit 'Em Up.mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\Hit 'Em Up.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\In My Feelings.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\In My Feelings.mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\In My Feelings.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Taste.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Taste.mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\Taste.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\no-brainer.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\no-brainer.mp3",
       "PackagePath": "staticwebassets\\audio\\rap\\no-brainer.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\KAROL G - BICHOTA.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\KAROL G - BICHOTA.mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\KAROL G - BICHOTA.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3",
       "PackagePath": "staticwebassets\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\born-to-run.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\born-to-run.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\born-to-run.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\good-vibrations.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\good-vibrations.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\good-vibrations.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\hotel-california.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\hotel-california.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\hotel-california.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\imagine.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\imagine.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\imagine.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\light-my-fire.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\light-my-fire.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\light-my-fire.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\like-a-rolling-stone.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\like-a-rolling-stone.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\like-a-rolling-stone.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\respect.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\respect.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\respect.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\satisfaction.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\satisfaction.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\satisfaction.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\stairway-to-heaven.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\stairway-to-heaven.mp3",
       "PackagePath": "staticwebassets\\audio\\rock\\stairway-to-heaven.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\20-min.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\20-min.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\20-min.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\a-por-todo.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\a-por-todo.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\a-por-todo.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\givenchy.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\givenchy.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\givenchy.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\harakiri.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\harakiri.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\harakiri.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\jimmy-cooks.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\jimmy-cooks.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\jimmy-cooks.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\la-mirada.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\la-mirada.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\la-mirada.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\loca.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\loca.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\loca.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\magnolia.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\magnolia.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\magnolia.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\pintao.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\pintao.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\pintao.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\sicko-mode.mp3",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\sicko-mode.mp3",
       "PackagePath": "staticwebassets\\audio\\trap\\sicko-mode.mp3"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\css\\site.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\favicon.ico",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\Logo.PNG",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\logos\\Logo.PNG",
       "PackagePath": "staticwebassets\\img\\logos\\Logo.PNG"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\Thumbs.db",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\logos\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\logos\\Thumbs.db"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\logo_limpio.png",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\logos\\logo_limpio.png",
       "PackagePath": "staticwebassets\\img\\logos\\logo_limpio.png"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\Thumbs.db",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\rap\\Thumbs.db"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\apeshit-img.webp",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\apeshit-img.webp",
       "PackagePath": "staticwebassets\\img\\rap\\apeshit-img.webp"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\bad-bunny-desc.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\bad-bunny-desc.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\bad-bunny-desc.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\bad-bunny-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\bad-bunny-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\bad-bunny-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\be-careful-img.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\be-careful-img.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\be-careful-img.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\beyoncé-desc.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\beyoncé-desc.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\beyoncé-desc.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\beyoncé-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\beyoncé-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\beyoncé-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\biggie-img.webp",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\biggie-img.webp",
       "PackagePath": "staticwebassets\\img\\rap\\biggie-img.webp"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\cardi-b-descripcion.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\cardi-b-descripcion.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\cardi-b-descripcion.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\cardi-b-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\cardi-b-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\cardi-b-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-desc.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-desc.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\chance-the-rapper-desc.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-img.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-img.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\chance-the-rapper-img.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\dj-khaled-desc.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\dj-khaled-desc.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\dj-khaled-desc.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\dj-khaled-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\dj-khaled-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\dj-khaled-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\drake-descripcion.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\drake-descripcion.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\drake-descripcion.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\drake-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\drake-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\drake-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\hit-em-up-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\hit-em-up-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\hit-em-up-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\i-like-it-img.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\i-like-it-img.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\i-like-it-img.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\in-my-feelings-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\in-my-feelings-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\in-my-feelings-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\j-balvin-desc.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\j-balvin-desc.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\j-balvin-desc.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\j-balvin-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\j-balvin-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\j-balvin-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\jay-z-desc.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\jay-z-desc.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\jay-z-desc.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\jay-z-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\jay-z-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\jay-z-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\juicy-img.jpeg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\juicy-img.jpeg",
       "PackagePath": "staticwebassets\\img\\rap\\juicy-img.jpeg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\justin-bieber-desc.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\justin-bieber-desc.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\justin-bieber-desc.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\justin-bieber-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\justin-bieber-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\justin-bieber-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\no-brainer-img.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\no-brainer-img.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\no-brainer-img.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\taste-img.jfif",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\taste-img.jfif",
       "PackagePath": "staticwebassets\\img\\rap\\taste-img.jfif"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\tyga-descripcion.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\tyga-descripcion.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\tyga-descripcion.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\tyga-img.jpg",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\tyga-img.jpg",
       "PackagePath": "staticwebassets\\img\\rap\\tyga-img.jpg"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\js\\site.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

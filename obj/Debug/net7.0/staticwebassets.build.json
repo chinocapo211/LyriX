@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iPnKfNgTDwabmJY+2CUQjFQXOBxciWwGazooykfcUGQ=",
+  "Hash": "+IvseFy7OnUggu2L8miMQ/hi/v7xRPySddUVaGjZ40I=",
   "Source": "LyriX",
   "BasePath": "_content/LyriX",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LyriX\\wwwroot",
       "Source": "LyriX",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LyriX.styles.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LyriX.styles.css",
       "SourceId": "LyriX",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "LyriX.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LyriX.styles.css"
+      "OriginalItemSpec": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LyriX.styles.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LyriX.bundle.scp.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LyriX.bundle.scp.css",
       "SourceId": "LyriX",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "LyriX.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\programacion\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LyriX.bundle.scp.css"
+      "OriginalItemSpec": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LyriX.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\assets\\google-icon.svg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\google-icon.svg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "assets/google-icon.svg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\google-icon.svg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\assets\\login-icon.svg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\login-icon.svg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "assets/login-icon.svg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\login-icon.svg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\assets\\login-icon1.svg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\login-icon1.svg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "assets/login-icon1.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\login-icon1.svg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\assets\\logo-vt.svg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\logo-vt.svg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "assets/logo-vt.svg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\logo-vt.svg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\assets\\password-icon.svg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\password-icon.svg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "assets/password-icon.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\password-icon.svg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\assets\\username-icon.svg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\assets\\username-icon.svg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "assets/username-icon.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\username-icon.svg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\Beyonce & JAY-Z - Apeshit (Lyrics) ft. The Carters.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Big Poppa (2007 Remaster).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Big Poppa (2007 Remaster).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/Big Poppa (2007 Remaster).mp3",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\Big Poppa (2007 Remaster).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\California Love (Original Version).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\California Love (Original Version).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/California Love (Original Version).mp3",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\California Love (Original Version).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/Cardi B - Be Careful [Official Audio].mp3",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\Cardi B - Be Careful [Official Audio].mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\Cardi B Bad Bunny & J Balvin - I Like It [Official Audio].mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Hit 'Em Up.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Hit 'Em Up.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/Hit 'Em Up.mp3",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\Hit 'Em Up.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\In My Feelings.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\In My Feelings.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/In My Feelings.mp3",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\In My Feelings.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\no-brainer.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\no-brainer.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/no-brainer.mp3",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\no-brainer.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rap\\Taste.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rap\\Taste.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rap/Taste.mp3",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rap\\Taste.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/Aventura Bad Bunny - Volví (Video Oficial).mp3",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\Aventura Bad Bunny - Volví (Video Oficial).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/Bad Bunny - Yonaguni (Video Oficial).mp3",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\Bad Bunny - Yonaguni (Video Oficial).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\J. Balvin Maria Becerra - Qué Más Pues (Official Video).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\KAROL G - BICHOTA.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\KAROL G - BICHOTA.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/KAROL G - BICHOTA.mp3",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\KAROL G - BICHOTA.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers Video Oficial.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\Myke Towers x @JuhnTV - BANDIDO (Video Oficial).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/reggaeton/Rauw Alejandro - Todo de Ti (Video Oficial).mp3",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\reggaeton\\Rauw Alejandro - Todo de Ti (Video Oficial).mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\born-to-run.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\born-to-run.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/born-to-run.mp3",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\born-to-run.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\good-vibrations.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\good-vibrations.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/good-vibrations.mp3",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\good-vibrations.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\hotel-california.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\hotel-california.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/hotel-california.mp3",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\hotel-california.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\imagine.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\imagine.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/imagine.mp3",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\imagine.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\light-my-fire.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\light-my-fire.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/light-my-fire.mp3",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\light-my-fire.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\like-a-rolling-stone.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\like-a-rolling-stone.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/like-a-rolling-stone.mp3",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\like-a-rolling-stone.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\respect.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\respect.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/respect.mp3",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\respect.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\satisfaction.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\satisfaction.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/satisfaction.mp3",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\satisfaction.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\rock\\stairway-to-heaven.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\rock\\stairway-to-heaven.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/rock/stairway-to-heaven.mp3",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\rock\\stairway-to-heaven.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\20-min.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\20-min.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/20-min.mp3",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\20-min.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\a-por-todo.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\a-por-todo.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/a-por-todo.mp3",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\a-por-todo.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\givenchy.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\givenchy.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/givenchy.mp3",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\givenchy.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\harakiri.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\harakiri.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/harakiri.mp3",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\harakiri.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\jimmy-cooks.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\jimmy-cooks.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/jimmy-cooks.mp3",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\jimmy-cooks.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\la-mirada.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\la-mirada.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/la-mirada.mp3",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\la-mirada.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\loca.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\loca.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/loca.mp3",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\loca.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\magnolia.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\magnolia.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/magnolia.mp3",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\magnolia.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\pintao.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\pintao.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/pintao.mp3",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\pintao.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\audio\\trap\\sicko-mode.mp3",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\audio\\trap\\sicko-mode.mp3",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "audio/trap/sicko-mode.mp3",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\audio\\trap\\sicko-mode.mp3"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\BD_LyriX.sql",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\BD_LyriX.sql",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "BD_LyriX.sql",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\BD_LyriX.sql"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\css\\site.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\favicon.ico",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\logo_limpio.png",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\logos\\logo_limpio.png",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/logos/logo_limpio.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\logo_limpio.png"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\Logo.PNG",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\logos\\Logo.PNG",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/logos/Logo.PNG",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\Logo.PNG"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\Thumbs.db",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\logos\\Thumbs.db",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/logos/Thumbs.db",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\apeshit-img.webp",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\apeshit-img.webp",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/apeshit-img.webp",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\apeshit-img.webp"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\bad-bunny-desc.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\bad-bunny-desc.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/bad-bunny-desc.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\bad-bunny-desc.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\bad-bunny-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\bad-bunny-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/bad-bunny-img.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\bad-bunny-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\be-careful-img.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\be-careful-img.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/be-careful-img.jfif",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\be-careful-img.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\beyoncé-desc.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\beyoncé-desc.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/beyoncé-desc.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\beyoncé-desc.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\beyoncé-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\beyoncé-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/beyoncé-img.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\beyoncé-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\biggie-img.webp",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\biggie-img.webp",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/biggie-img.webp",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\biggie-img.webp"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\cardi-b-descripcion.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\cardi-b-descripcion.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/cardi-b-descripcion.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\cardi-b-descripcion.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\cardi-b-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\cardi-b-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/cardi-b-img.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\cardi-b-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-desc.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-desc.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/chance-the-rapper-desc.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\chance-the-rapper-desc.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-img.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-img.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/chance-the-rapper-img.jfif",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\chance-the-rapper-img.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\dj-khaled-desc.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\dj-khaled-desc.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/dj-khaled-desc.jfif",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\dj-khaled-desc.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\dj-khaled-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\dj-khaled-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/dj-khaled-img.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\dj-khaled-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\drake-descripcion.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\drake-descripcion.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/drake-descripcion.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\drake-descripcion.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\drake-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\drake-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/drake-img.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\drake-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\hit-em-up-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\hit-em-up-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/hit-em-up-img.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\hit-em-up-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\i-like-it-img.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\i-like-it-img.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/i-like-it-img.jfif",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\i-like-it-img.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\in-my-feelings-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\in-my-feelings-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/in-my-feelings-img.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\in-my-feelings-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\j-balvin-desc.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\j-balvin-desc.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/j-balvin-desc.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\j-balvin-desc.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\j-balvin-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\j-balvin-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/j-balvin-img.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\j-balvin-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\jay-z-desc.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\jay-z-desc.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/jay-z-desc.jfif",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\jay-z-desc.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\jay-z-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\jay-z-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/jay-z-img.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\jay-z-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\juicy-img.jpeg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\juicy-img.jpeg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/juicy-img.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\juicy-img.jpeg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\justin-bieber-desc.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\justin-bieber-desc.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/justin-bieber-desc.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\justin-bieber-desc.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\justin-bieber-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\justin-bieber-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/justin-bieber-img.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\justin-bieber-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\no-brainer-img.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\no-brainer-img.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/no-brainer-img.jfif",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\no-brainer-img.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\taste-img.jfif",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\taste-img.jfif",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/taste-img.jfif",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\taste-img.jfif"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\Thumbs.db",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\Thumbs.db",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/Thumbs.db",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\tyga-descripcion.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\tyga-descripcion.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/tyga-descripcion.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\tyga-descripcion.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\tyga-img.jpg",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\img\\rap\\tyga-img.jpg",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "img/rap/tyga-img.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rap\\tyga-img.jpg"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\js\\site.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\programacion\\LyriX\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "LyriX",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\programacion\\LyriX\\wwwroot\\",
+      "ContentRoot": "Z:\\Tecnologia\\4to\\LyriX\\LyriX\\wwwroot\\",
       "BasePath": "_content/LyriX",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
