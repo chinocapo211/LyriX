@@ -14,7 +14,7 @@
     <div class="carousel-item active" data-bs-interval="10000">
         @foreach (Canciones cancion in ViewBag.listaCanciones)
         {
-            <img src="@ViewBag.fotoCancion" class="d-block w-100" alt="Canciones">
+            <img src="@cancion.fotoCancion" class="d-block w-100" alt="Canciones">
             <div class="carousel-caption d-none d-md-block">
                 <h5>@cancion.nombreCancion</h5>
                 <p>@cancion.</p>
