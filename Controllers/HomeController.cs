@@ -28,10 +28,21 @@ public class HomeController : Controller
     }
     public IActionResult ingresoLogin(string nom, string con)
     {
-        
-        return View("Login");
+        Usuarios us;
+        us = BD.IniciarSesion(nom, con);
+        if(us.nombreUser == nom && us.contrasenia == con){
+            return View("Home");
+        }
+        else{
+            ViewBag.msjError = "Usuario y/o contraseña incorrecto/a";
+            return View("Login");
+        }
+       
     }
-
+    public IActionResult Home(string nom, string con)
+    {
+        return View("Home");
+    }
 
     public IActionResult Perfil(int IdUsuario)
     {
@@ -69,6 +80,13 @@ public class HomeController : Controller
     {
         BD.InsertarTwitter(twit,IdUsuario);
         return View("Perfil");
+    }
+    public IActionResult Home(){
+        ViewBag.listaCanciones = BD.ObtenerCancionesCarrusel();
+        ViewBag.listaArtistas = BD.ObtenerArtistas();
+        ViewBag.listaAlbumes = BD.ObtenerAlbumesCarrusel();
+    
+        return View("Home");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

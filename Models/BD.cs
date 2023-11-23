@@ -69,13 +69,30 @@ public static class BD{
             db.Execute(sql, new {@twit = twit, @pIdUsuario = IdUsuario});
         }
     }
-     public static Usuarios ObtenerUserNombre(string nombre){
-        string sql = "SELECT * FROM Usuarios WHERE nombre = @pnombre";
+    public static Usuarios IniciarSesion(string nombre, string contra){
+        string sql = "SELECT * FROM Usuarios WHERE NombreUsuario = @pnombre AND contrasenia = @pcontrasenia";
         Usuarios devolver;
         using(SqlConnection db = new SqlConnection(_connectionString)){
-            devolver = db.QueryFirstOrDefault(sql, new {pnombre = nombre});
+            devolver = db.QueryFirstOrDefault(sql, new {pnombre = nombre, pcontrasenia = contra});
         }
         return devolver;
     }
 
+        public static List<Canciones> ObtenerCancionesCarrusel(){
+        string sql = "SELECT TOP 5 * FROM Canciones ORDER BY NEWID()";
+        List<Canciones> devolver = new List<Canciones>{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.Query<Canciones>(sql).ToList();
+        }
+        return devolver;
+    }
+
+    public static List<Albumes> ObtenerAlbumesCarrusel(){
+        string sql = "SELECT TOP 5 * FROM Albumes ORDER BY NEWID()";
+        List<Albumes> devolver = new List<Albumes>{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.Query<Albumes>(sql).ToList();
+        }
+        return devolver;
+    }
 }
