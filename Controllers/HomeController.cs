@@ -85,7 +85,6 @@ public class HomeController : Controller
         ViewBag.listaCanciones = BD.ObtenerCancionesCarrusel();
         ViewBag.listaArtistas = BD.ObtenerArtistas();
         ViewBag.listaAlbumes = BD.ObtenerAlbumesCarrusel();
-    
         return View("Home");
     }
 
