@@ -1,0 +1,39 @@
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">    
+</head>
+
+<body>
+    <div class="perfil-container">
+        <img src="..." alt="Foto del artista">
+        <div class="nombre-redes">
+            <h1>Nombre del artista</h1>
+            <span><img src="/img/redes/ig" alt="img ig"></span>
+            <span><img src="/img/redes/tw" alt="img tw"></span>
+        </div>
+        <div class="albumes">
+            @foreach (Album alb in ViewBag.listaAlbumes)
+            {
+                if(alb.IdArtista == "id del artista elegido"){
+                    <img src="@alb.fotoAlbum" alt="Foto album">
+                    <h3>@alb.nombreAlbum</h3>
+                }
+            }
+        </div>
+        <div class="descripcion">
+            <div class="card" style="width: 18rem;">
+                @foreach (Artista art in ViewBag.listaArtistas)
+                {
+                    if(art.IdArtista == "id del artista elegido"){
+                        <div class="card text-bg-dark">
+                            <img src="@art.fotoDescripcion" class="card-img" alt="Foto descripcion">
+                            <div class="card-img-overlay">
+                                <h5 class="card-title">@art.nombre</h5>
+                                <p class="card-text">@art.descripcion</p>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</body>
