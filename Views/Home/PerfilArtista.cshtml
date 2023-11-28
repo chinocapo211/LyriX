@@ -4,12 +4,12 @@
     Layout = "_Layout";
     }   
 </head>
-<!-- -->
+
 <body>
     <div class="perfil-container">
-        <img src="" alt="Foto del artista">
+        <img src="@ViewBag.Arti.fotoArtista" alt="Foto del artista">
         <div class="nombre-redes">
-            <h1>Nombre del artista</h1>
+            <h1>@ViewBag.Arti.nombre</h1>
             <span><img src="/img/redes/ig" alt="img ig"></span>
             <span><img src="/img/redes/tw" alt="img tw"></span>
         </div>

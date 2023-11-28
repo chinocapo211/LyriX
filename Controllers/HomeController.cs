@@ -92,6 +92,7 @@ public class HomeController : Controller
 
     public IActionResult Cancion(int IdCan){
         ViewBag.Cancion = BD.ObtenerCancionPorId(IdCan);
+        ViewBag.Artista = BD.ObtenerArtistaPorId(ViewBag.Cancion.IdArtista);
         return View("Cancion");
     }
 
@@ -99,7 +100,7 @@ public class HomeController : Controller
         ViewBag.Album = BD.ObtenerAlbumPorId(IdAlb);
         return View("Album");
     }
-    
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

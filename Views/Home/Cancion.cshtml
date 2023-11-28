@@ -4,18 +4,18 @@
 @{
     Layout = "_Layout";
 }
-<!-- falta poner los datos de la cancion elegida-->
+
 <body>
     <div class="cantainer">
         <div class="img-cancion">
-            <img src="..." alt="Foto Cancion">
+            <img src="@ViewBag.Cancion.fotoCancion" alt="Foto Cancion">
         </div>
         <div class="nombres">
-            <h3>nombre de la cancion</h3>
-            <h5>nombre del artista</h5>
+            <h3>@ViewBag.Cancion.nombreCancion</h3>
+            <h5>@ViewBag.Artista.nombre</h5>
         </div>
         <div class="barra-de-control">
-            <audio src="..."></audio>
+            <audio src="@ViewBag.Cancion.audio"></audio>
         </div>
     </div>
 </body>
