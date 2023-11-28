@@ -78,13 +78,14 @@ public class HomeController : Controller
         return View("Perfil");
     }
     public IActionResult Home(){
+        ViewBag.listaUsuarios = BD.ObtenerUsuarioPorId();
         ViewBag.listaCanciones = BD.ObtenerCancionesCarrusel();
         ViewBag.listaArtistas = BD.ObtenerArtistas();
         ViewBag.listaAlbumes = BD.ObtenerAlbumesCarrusel();
         return View("Home");
     }
 
-     public IActionResult PerfilArtista(int IdAr){
+    public IActionResult PerfilArtista(int IdAr){
         ViewBag.Arti = BD.ObtenerArtistaPorId(IdAr);
         return View("PerfilArtista");
     }
@@ -98,6 +99,8 @@ public class HomeController : Controller
         ViewBag.Album = BD.ObtenerAlbumPorId(IdAlb);
         return View("Album");
     }
+    
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

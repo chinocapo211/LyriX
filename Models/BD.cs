@@ -121,4 +121,12 @@ public static class BD{
         return devolver;
     }
     
+     public static Usuarios ObtenerUsuarioPorId(int IdUs){
+        string sql = "SELECT * FROM Usuarios WHERE IdUsuario = @pIdUsuario";
+        Usuarios devolver = new Usuarios{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.QueryFirstOrDefault(sql,new {pIdUsuario = IdUs});
+        }
+        return devolver;
+    }
 }
