@@ -39,10 +39,6 @@ public class HomeController : Controller
         }
        
     }
-    public IActionResult Home(string nom, string con)
-    {
-        return View("Home");
-    }
 
     public IActionResult Perfil(int IdUsuario)
     {
@@ -61,7 +57,7 @@ public class HomeController : Controller
     [HttpPost] public IActionResult insertarUser(string nom, string ma , DateTime fn, string con)
     {
         BD.InsertarUsuario(nom,ma,fn,con);
-        return View("Registro");
+        return RedirectToAction("Home");
     }
 
     public IActionResult insertarDesc(string desc, int IdUsuario)
@@ -88,6 +84,20 @@ public class HomeController : Controller
         return View("Home");
     }
 
+     public IActionResult PerfilArtista(int IdAr){
+        ViewBag.Arti = BD.ObtenerArtistaPorId(IdAr);
+        return View("PerfilArtista");
+    }
+
+    public IActionResult Cancion(int IdCan){
+        ViewBag.Cancion = BD.ObtenerCancionPorId(IdCan);
+        return View("Cancion");
+    }
+
+    public IActionResult Album(int IdAlb){
+        ViewBag.Album = BD.ObtenerAlbumPorId(IdAlb);
+        return View("Album");
+    }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

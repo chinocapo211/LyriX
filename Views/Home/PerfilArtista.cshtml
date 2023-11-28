@@ -4,16 +4,16 @@
 <!-- -->
 <body>
     <div class="perfil-container">
-        <img src="..." alt="Foto del artista">
+        <img src="" alt="Foto del artista">
         <div class="nombre-redes">
             <h1>Nombre del artista</h1>
             <span><img src="/img/redes/ig" alt="img ig"></span>
             <span><img src="/img/redes/tw" alt="img tw"></span>
         </div>
         <div class="albumes">
-            @foreach (Album alb in ViewBag.listaAlbumes)
+            @foreach (Albumes alb in ViewBag.listaAlbumes)
             {
-                if(alb.IdArtista == "id del artista elegido"){
+                if(ViewBag.Arti.IdArtista == alb.IdArtista){
                     <img src="@alb.fotoAlbum" alt="Foto album">
                     <h3>@alb.nombreAlbum</h3>
                 }
@@ -21,13 +21,10 @@
         </div>
         <div class="descripcion">
             <div class="card" style="width: 18rem;">
-                @foreach (Artista art in ViewBag.listaArtistas)
-                {
-                    if(art.IdArtista == "id del artista elegido"){
                         <div class="card text-bg-dark">
-                            <img src="@art.fotoDescripcion" class="card-img" alt="Foto descripcion">
+                            <img src="@ViewBag.Arti.fotoDescripcion" class="card-img" alt="Foto descripcion">
                             <div class="card-img-overlay">
-                                <h5 class="card-title">@art.nombre</h5>
+                                <h5 class="card-title">@ViewBag.Arti.nombre</h5>
                                 <div class="modal" tabindex="-1" id = "MostrarDescripcion">
                                     <div class="modal-dialog">
                                         <div class="modal-content">
@@ -47,8 +44,6 @@
                                 </div>
                             </div>
                         </div>
-                    }
-                }
             </div>
         </div>
     </div>

@@ -1,8 +1,10 @@
-<img src="@ViewBag.fotoUsuario" alt="Imagen de perfil">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
 <h1>LyriX</h1>
 <h4>Looking for the Sound</h4>
-
+<br>
+<br>
+<br>
 <h5><b>Lo que esta sonando ahora</b></h5>
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
   <div class="carousel-indicators">
@@ -10,12 +12,11 @@
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <!--falta poner el nombre del artista-->
   <div class="carousel-inner">
         @foreach (Canciones cancion in ViewBag.listaCanciones)
         {
           <div class="carousel-item active" data-bs-interval="10000">
-            <img src="@cancion.fotoCancion" class="d-block w-100" alt="Canciones">
+            <a href='Url.Action("Cancion")'><img src="@cancion.fotoCancion" class="d-block w-100" alt="Canciones"></a>
             <div class="carousel-caption d-none d-md-block">
               <h5>@cancion.nombreCancion</h5>
             </div>
@@ -31,7 +32,9 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
+<br>
+<br>
+<br>
 <h5><b>Los mas pegados</b></h5>
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
   <div class="carousel-indicators">
@@ -43,7 +46,7 @@
         @foreach (Artistas art in ViewBag.listaArtistas)
         {
           <div class="carousel-item active" data-bs-interval="10000">
-            <img src="@art.fotoArtista" class="d-block w-100" alt="Canciones">
+            <a href='Url.Action("PerfilArtista")'><img src="@art.fotoArtista" class="d-block w-100" alt="Artistas"></a>
             <div class="carousel-caption d-none d-md-block">
               <h5>@art.nombre</h5>
             </div>
@@ -59,7 +62,9 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
+<br>
+<br>
+<br>
 <h5><b>Para escuchar en loop</b></h5>
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
   <div class="carousel-indicators">
@@ -71,10 +76,9 @@
         @foreach (Albumes alb in ViewBag.listaAlbumes)
         {
           <div class="carousel-item active" data-bs-interval="10000">
-            <img src="@alb.fotoAlbum" class="d-block w-100" alt="Canciones">
+            <a href='Url.Action("Album")'><img src="@alb.fotoAlbum" class="d-block w-100" alt="Albumes"></a>
             <div class="carousel-caption d-none d-md-block">
               <h5>@alb.nombreAlbum</h5>
-              //poner el nombre del artista
             </div>
           </div>
         }

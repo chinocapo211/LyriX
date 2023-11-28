@@ -95,4 +95,30 @@ public static class BD{
         }
         return devolver;
     }
+    public static Artistas ObtenerArtistaPorId(int IdAr){
+        string sql = "SELECT * FROM Artistas WHERE IdArtista = @pIdArtista";
+        Artistas devolver = new Artistas{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.QueryFirstOrDefault(sql,new {pIdArtista = IdAr});
+        }
+        return devolver;
+    }
+    public static Canciones ObtenerCancionPorId(int IdCan){
+        string sql = "SELECT * FROM Canciones WHERE IdCancion = @pIdCancion";
+        Canciones devolver = new Canciones{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.QueryFirstOrDefault(sql,new {pIdCancion = IdCan});
+        }
+        return devolver;
+    }
+
+    public static Albumes ObtenerAlbumPorId(int IdAlb){
+        string sql = "SELECT * FROM Albumes WHERE IdAlbum = @pIdAlbum";
+        Albumes devolver = new Albumes{};
+        using(SqlConnection db = new SqlConnection(_connectionString)){
+            devolver = db.QueryFirstOrDefault(sql,new {pIdAlbum = IdAlb});
+        }
+        return devolver;
+    }
+    
 }

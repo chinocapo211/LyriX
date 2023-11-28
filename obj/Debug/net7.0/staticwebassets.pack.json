@@ -185,6 +185,778 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoAlbum\\HipHop.png",
+      "PackagePath": "staticwebassets\\img\\FotoAlbum\\HipHop.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoAlbum\\Reggaeton.jpeg",
+      "PackagePath": "staticwebassets\\img\\FotoAlbum\\Reggaeton.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoAlbum\\Rock.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoAlbum\\Rock.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoAlbum\\Trap.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoAlbum\\Trap.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\20 mins.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\20 mins.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\A por todo.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\A por todo.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Apeshit.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Apeshit.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Bandido.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Bandido.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Be Careful.png",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Be Careful.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Bichota.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Bichota.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Big Poppa (Remaster 2007).jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Big Poppa (Remaster 2007).jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Born-to-run.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Born-to-run.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\California Love.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\California Love.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Cardi_B-I_Like_It.png",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Cardi_B-I_Like_It.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Dakiti.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Dakiti.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Givenchy.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Givenchy.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Good_Vibrations_single.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Good_Vibrations_single.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Harakiri.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Harakiri.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Hit Em Up.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Hit Em Up.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Hotelcalifornia.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Hotelcalifornia.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Imagine.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Imagine.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\In My Feelings.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\In My Feelings.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Jimmy Cooks.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Jimmy Cooks.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\La Nota.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\La Nota.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\La mirada.png",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\La mirada.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Light My Fire.jpeg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Light My Fire.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Like a rolling stone.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Like a rolling stone.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Loca.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Loca.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Magnolia.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Magnolia.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\No Brainer.png",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\No Brainer.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Pintao.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Pintao.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Que mas pues.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Que mas pues.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Respect.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Respect.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Satisfaction.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Satisfaction.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Sicko Mode.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Sicko Mode.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Stairway To Heaven.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Stairway To Heaven.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Taste.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Taste.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Todo De Ti.jfif",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Todo De Ti.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Volvi.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Volvi.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotoCancion\\Yonaguni.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoCancion\\Yonaguni.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\2Pac_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\2Pac_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\2Pac_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\2Pac_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Aretha_Desc.jpeg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Aretha_Desc.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Aretha_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Aretha_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\BadBunny_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\BadBunny_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\BadBunny_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\BadBunny_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\BeachBoys_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\BeachBoys_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\BeachBoys_Img.png",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\BeachBoys_Img.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Bhavi_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Bhavi_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Bhavi_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Bhavi_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Biggie_Desc.jpeg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Biggie_Desc.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Biggie_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Biggie_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\BobDylan_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\BobDylan_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\BobDylan_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\BobDylan_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Bruce_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Bruce_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Bruce_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Bruce_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\CardiB_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\CardiB_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\CardiB_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\CardiB_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Carti_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Carti_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Carti_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Carti_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\DjKhaled_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\DjKhaled_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\DjKhaled_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\DjKhaled_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Drake_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Drake_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Drake_Img.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Drake_Img.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Duki_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Duki_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Duki_Img.png",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Duki_Img.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\JayZ_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\JayZ_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\JayZ_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\JayZ_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Jay_Desc.jpeg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Jay_Desc.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Jay_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Jay_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Karol_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Karol_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Karol_Img.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Karol_Img.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Khea_Desc.png",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Khea_Desc.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Khea_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Khea_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\LedZeppelin_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\LedZeppelin_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\LedZeppelin_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\LedZeppelin_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Lennon_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Lennon_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Lennon_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Lennon_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Myke_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Myke_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Myke_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Myke_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Rauw_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Rauw_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Rauw_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Rauw_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\RollingStones_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\RollingStones_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\RollingStones_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\RollingStones_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TheBeatles_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TheBeatles_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TheBeatles_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TheBeatles_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TheDoors_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TheDoors_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TheDoors_Img.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TheDoors_Img.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TheEagles_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TheEagles_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TheEagles_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TheEagles_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TravisScott_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TravisScott_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\TravisScott_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\TravisScott_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Tyga_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Tyga_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Tyga_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Tyga_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Uzi_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Uzi_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Uzi_Img.png",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Uzi_Img.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Ysy_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Ysy_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\FotosArtistas\\Ysy_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\FotosArtistas\\Ysy_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\boton-play.png",
+      "PackagePath": "staticwebassets\\img\\boton-play.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\20 mins.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\20 mins.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\A por todo.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\A por todo.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Apeshit.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Apeshit.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Bandido.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Bandido.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Be Careful.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Be Careful.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Bichota.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Bichota.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Big Poppa (Remaster 2007).jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Big Poppa (Remaster 2007).jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Born-to-run.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Born-to-run.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\California Love.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\California Love.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Cardi_B-I_Like_It.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Cardi_B-I_Like_It.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Dakiti.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Dakiti.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Givenchy.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Givenchy.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Good_Vibrations_single.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Good_Vibrations_single.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Harakiri.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Harakiri.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Hit Em Up.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Hit Em Up.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Hotelcalifornia.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Hotelcalifornia.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Imagine.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Imagine.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\In My Feelings.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\In My Feelings.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Jimmy Cooks.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Jimmy Cooks.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\La Nota.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\La Nota.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\La mirada.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\La mirada.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Light My Fire.jpeg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Light My Fire.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Like a rolling stone.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Like a rolling stone.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Loca.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Loca.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Magnolia.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Magnolia.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\No Brainer.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\No Brainer.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Pintao.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Pintao.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Que mas pues.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Que mas pues.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Respect.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Respect.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Satisfaction.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Satisfaction.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Sicko Mode.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Sicko Mode.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Stairway To Heaven.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Stairway To Heaven.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Taste.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Taste.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Todo De Ti.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Todo De Ti.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Volvi.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Volvi.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotoCancion\\Yonaguni.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotoCancion\\Yonaguni.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\2Pac_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\2Pac_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\2Pac_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\2Pac_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Aretha_Desc.jpeg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Aretha_Desc.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Aretha_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Aretha_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\BadBunny_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\BadBunny_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\BadBunny_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\BadBunny_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\BeachBoys_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\BeachBoys_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\BeachBoys_Img.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\BeachBoys_Img.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Bhavi_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Bhavi_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Bhavi_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Bhavi_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Biggie_Desc.jpeg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Biggie_Desc.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Biggie_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Biggie_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\BobDylan_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\BobDylan_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\BobDylan_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\BobDylan_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Bruce_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Bruce_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Bruce_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Bruce_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\CardiB_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\CardiB_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\CardiB_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\CardiB_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Carti_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Carti_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Carti_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Carti_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\DjKhaled_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\DjKhaled_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\DjKhaled_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\DjKhaled_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Drake_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Drake_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Drake_Img.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Drake_Img.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Duki_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Duki_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Duki_Img.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Duki_Img.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\JayZ_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\JayZ_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\JayZ_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\JayZ_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Jay_Desc.jpeg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Jay_Desc.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Jay_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Jay_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Karol_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Karol_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Karol_Img.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Karol_Img.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Khea_Desc.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Khea_Desc.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Khea_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Khea_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\LedZeppelin_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\LedZeppelin_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\LedZeppelin_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\LedZeppelin_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Lennon_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Lennon_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Lennon_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Lennon_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Myke_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Myke_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Myke_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Myke_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Rauw_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Rauw_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Rauw_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Rauw_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\RollingStones_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\RollingStones_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\RollingStones_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\RollingStones_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TheBeatles_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TheBeatles_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TheBeatles_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TheBeatles_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TheDoors_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TheDoors_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TheDoors_Img.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TheDoors_Img.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TheEagles_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TheEagles_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TheEagles_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TheEagles_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TravisScott_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TravisScott_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\TravisScott_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\TravisScott_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Tyga_Desc.jfif",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Tyga_Desc.jfif"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Tyga_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Tyga_Img.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Uzi_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Uzi_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Uzi_Img.png",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Uzi_Img.png"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Ysy_Desc.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Ysy_Desc.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\FotosArtistas\\Ysy_Img.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\FotosArtistas\\Ysy_Img.jpg"
+    },
+    {
       "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\logos\\Logo.PNG",
       "PackagePath": "staticwebassets\\img\\logos\\Logo.PNG"
     },
@@ -197,124 +969,12 @@
       "PackagePath": "staticwebassets\\img\\logos\\logo_limpio.png"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\Thumbs.db",
-      "PackagePath": "staticwebassets\\img\\rap\\Thumbs.db"
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\redes\\ig.png",
+      "PackagePath": "staticwebassets\\img\\redes\\ig.png"
     },
     {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\apeshit-img.webp",
-      "PackagePath": "staticwebassets\\img\\rap\\apeshit-img.webp"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\bad-bunny-desc.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\bad-bunny-desc.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\bad-bunny-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\bad-bunny-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\be-careful-img.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\be-careful-img.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\beyoncé-desc.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\beyoncé-desc.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\beyoncé-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\beyoncé-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\biggie-img.webp",
-      "PackagePath": "staticwebassets\\img\\rap\\biggie-img.webp"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\cardi-b-descripcion.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\cardi-b-descripcion.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\cardi-b-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\cardi-b-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-desc.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\chance-the-rapper-desc.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\chance-the-rapper-img.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\chance-the-rapper-img.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\dj-khaled-desc.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\dj-khaled-desc.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\dj-khaled-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\dj-khaled-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\drake-descripcion.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\drake-descripcion.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\drake-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\drake-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\hit-em-up-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\hit-em-up-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\i-like-it-img.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\i-like-it-img.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\in-my-feelings-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\in-my-feelings-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\j-balvin-desc.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\j-balvin-desc.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\j-balvin-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\j-balvin-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\jay-z-desc.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\jay-z-desc.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\jay-z-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\jay-z-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\juicy-img.jpeg",
-      "PackagePath": "staticwebassets\\img\\rap\\juicy-img.jpeg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\justin-bieber-desc.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\justin-bieber-desc.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\justin-bieber-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\justin-bieber-img.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\no-brainer-img.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\no-brainer-img.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\taste-img.jfif",
-      "PackagePath": "staticwebassets\\img\\rap\\taste-img.jfif"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\tyga-descripcion.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\tyga-descripcion.jpg"
-    },
-    {
-      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\rap\\tyga-img.jpg",
-      "PackagePath": "staticwebassets\\img\\rap\\tyga-img.jpg"
+      "Id": "Z:\\programacion\\LyriX\\wwwroot\\img\\redes\\tw.jpeg",
+      "PackagePath": "staticwebassets\\img\\redes\\tw.jpeg"
     },
     {
       "Id": "Z:\\programacion\\LyriX\\wwwroot\\js\\site.js",

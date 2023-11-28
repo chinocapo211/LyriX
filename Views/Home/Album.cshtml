@@ -12,7 +12,7 @@
     <div class="canciones">
         @foreach (Albumes alb in ViewBag.listaAlbumes)
         {
-            @foreach (Cancion can in ViewBag.listaCanciones)
+            @foreach (Canciones can in ViewBag.listaCanciones)
             {
                 if(can.IdAlbum == alb.IdAlbum){
                     <div class="card" style="width: 18rem;">
