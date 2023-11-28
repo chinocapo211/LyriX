@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\programacion\LyriX
 build_property._RazorSourceGeneratorDebug = 
 
+[Z:/programacion/LyriX/Views/Home/Album.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGJ1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/programacion/LyriX/Views/Home/Cancion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW5jaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/programacion/LyriX/Views/Home/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [Z:/programacion/LyriX/Views/Home/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/programacion/LyriX/Views/Home/PerfilArtista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWxBcnRpc3RhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/programacion/LyriX/Views/Home/Privacy.cshtml]
