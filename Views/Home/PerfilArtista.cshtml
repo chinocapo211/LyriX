@@ -4,21 +4,36 @@
     Layout = "_Layout";
     }   
 </head>
-
+<style>
+    .nombre-redes img{
+        display: flex;
+        border-radius: 100%;
+        height: 70px;
+        width: 70px;
+        margin-right: 10px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .pfp{
+        border-radius: 100%;
+        height: 500px;
+        width: 500px;
+    }
+</style>
 <body>
     <div class="perfil-container">
-        <img src="@ViewBag.Arti.fotoArtista" alt="Foto del artista">
+       <img src="@ViewBag.Arti.fotoArtista" alt="Foto del artista" class = "pfp">
         <div class="nombre-redes">
             <h1>@ViewBag.Arti.nombre</h1>
             <span><img src="/img/redes/ig" alt="img ig"></span>
             <span><img src="/img/redes/tw" alt="img tw"></span>
         </div>
-        <div class="albumes">
-            @foreach (Albumes alb in ViewBag.listaAlbumes)
+       <div class="canciones">
+            @foreach (Canciones can in ViewBag.listaCanciones)
             {
-                if(ViewBag.Arti.IdArtista == alb.IdArtista){
-                    <img src="@alb.fotoAlbum" alt="Foto album">
-                    <h3>@alb.nombreAlbum</h3>
+                if(ViewBag.Arti.IdArtista == can.IdArtista){
+                    <img src="@can.fotoCancion" alt="Foto cancion">
+                    <h3>@can.nombreCancion</h3>
                 }
             }
         </div>
